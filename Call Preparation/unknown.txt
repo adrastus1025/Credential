@@ -1,0 +1,46 @@
+third party api
+
+sentry
+storybook test for visual components
+Apache Kafka
+Firebase
+
+How do you handle disagreement?
+respectful communication, actively listening, think deeply other's opinion 
+
+difference between junior and senior developer?
+
+
+team composition and methodology
+
+We used scrum for development there was only 50 members five members for frontend, six members for backend, 3 members in QA, and also project manager
+
+We had two-weeks sprint, at the beginning of the sprint we had a sprint planning meetings to organise user stories and divide the tickets and sprint demo meetings
+and we also have daily stand ups to checkout the progress. In the meeting what what we did yesterday, and what will I do today and blockers
+
+we used git for version control
+make pull request on git and after reviewing, we merged to the main branch.
+
+leading experience
+frontend leader and have a meeting with project manager and talk about the frontend progress, the future of the frontend
+
+allows working with challenging   technical skills talented team, be part of the company's growth,  
+
+burning the midnight oil
+turning the tables
+It's not a bug, it's a feature
+Code like ninja
+You can't CTRL+Z in real life
+Infinite loop of meetings
+My code is so clean you can eat off it
+
+
+Software design pattern
+
+	1. Creational Patterns ( Singleton Pattern, Factory Method Pattern)
+	2. Structural Patterns
+	3. Behavioral Patterns
+	4. Architectural Patterns(MVC, MVVM)
+	5. Data Access Patterns
+
+

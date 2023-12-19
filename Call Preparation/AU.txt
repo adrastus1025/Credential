@@ -1,0 +1,198 @@
+
+
+Linkedinintel0103
+278 Carrington St, Adelaide SA 5000
+Adelaide SA
+The University of Sheffield - Computer Science B.S.
+2013 - 2017
+(+61 4 8581 6739) 
+(+61 8 8120 0696)
+
+<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTg4YThlNzQtZjU4My00YzlmLWFjNTctOTJkMDFjMGEzNDBh%40thread.v2/0?context=%7b%22Tid%22%3a%22ea752865-33ba-4b48-a1d3-35248a228df6%22%2c%22Oid%22%3a%22517aff0b-4cc2-4180-a9ea-7a58dce4376e%22%7d>
+
+Realtime Database: Firebase offers a NoSQL, cloud-hosted database that allows you to store and sync data in real time. This is particularly useful for building collaborative applications, chat apps, or any application that requires real-time updates.
+
+Authentication: Firebase provides robust authentication services, allowing you to easily implement user authentication in your app using methods like email/password, social logins (Google, Facebook, etc.), and more.
+
+Cloud Functions: You can write serverless functions with Firebase Cloud Functions. These functions can respond to events in your app and perform backend tasks like sending notifications, processing data, and more.
+
+Hosting: Firebase Hosting allows you to deploy and host your web applications, including static content and dynamic content through Cloud Functions, with a simple and secure hosting solution.
+
+
+1. Introduce your self
+	I've been a software engineer for nine years and I've worked as developer at companies like AdoreBeauty and Healthcare Logic.
+	During my career, I've built numerous web and mobile applications using different techonlogies.
+	I'm proficient in React and Angular for fronend and node and asp.net for backend.
+	My expertise also lies in databases such as MySQL, PostgreSQL and MongoDB.
+	In addition to my technical skills, I'm a team player and comfortable collaborating with cross-functional teams.
+	I've successfully deployed my last project to from development to the final product stage.
+	However, my contract recently ended, and I'm now looking for a new opportunity.
+
+2. What was your responsibility?
+
+	I took the charge of entire cycle for specfic features from requirent gathering to design and develop
+	I developed Rest Apis with Asp.net and build responsive user interface with Angular.
+	I did the uni-testing and end-to-end test and also have experience mentoring junior developers
+	But my main responsibility was developing.
+
+3. Talk about last project
+
+	The project is mainly used for data visualization from huge data
+	It helps clinicians and hospital managers to make a smart decision and optimize the performance for management. It also monitor hospital demand, patient activity and patient flow and more.
+
+	Additionally it has functionality for a patient to find the nearest and suitable hospital so we used google maps.
+	The project requires robust back-end system that could handle authentification and dynamic front-end interface for displaying many hospital highcharts and informations.
+
+	For fronend I used Angular to create a dynamic and  responsive user interface. So I used Angular Material to create reusable UI components and I also used highchart.js and d3.js for visualization.
+
+	For backend I used .net to develop RESTful apis that communicated with SQL Server database. I also integrated various third-party apis and libraries and implemented a system that used AWS lambda and SNS(Simple notification Service) for real-time mornitoring.
+	The project gives me valuable experience.
+
+
+4. What is your biggest challenge?
+
+	One of the biggest challeng that I faced was cross-browser compatibility and how to test and debug the app's functionalities and compatibility across different browsers, devices and platforms.
+	It was demanding. So we implemented a responsive design with TailWind CSS and for testing we used BrowserStack.
+	It is a cloud-based service for testing and debugging.
+	Another challenge was how to make a efficient real time communication.
+	So we used SignalR for communication.
+	But there are some difficulties like the connect was lost when the browser is inact for a long period of time.
+	I fix it with configuration and add additional logic for watching connections.
+
+
+
+5. What are you looking for a next role?
+	I want to use my skill and experience to build and maintain high-quality, scalable, and reliable web applications.
+	I want to be part of company's growth
+	Work with a talented and experienced engineers
+	Continue to learn and grow as a developer who is reputable and innovative
+
+
+6. Team composition and how to follow agile methodology?
+	In our company, which comprises a team of 20 members, 12 are dedicated software engineers, divided into 5 for frontend, 5 for backend, and 2 serving as QA engineers.
+	Additionally, our team includes 2 skilled designers specializing in UI/UX, alongside a project manager and a product manager, as well as the scrum master.
+
+	We have integrated the Scrum methodology to optimize our development processes, enhnace collaboration among our team members.
+	I provided technical expertise and insight into the implementation for proposed tasks and prioritize tasks based on their importance in sprint planning meetings
+	We conduct daily stand-up meetings, during which we share progress updates, discuss our immediate tasks, and address any obstacles or blockers.
+
+	Our development cycle operates on a bi-weekly sprint basis, allowing us to release product increments every two weeks.
+
+	Following the conclusion of each sprint,we had the sprint review and the sprint retrospective.
+
+	In terms of team collaboration and communication, we utilize the Slack platform to facilitate seamless and efficient interactions among our team members.
+
+
+7. How to you keep up with the latest technologies?
+	I always use online resouces. I follw technology news websites, blogs and social media channel related to software development. Sites like Hacker News, Reddit.
+	I attended conferences or meetups to learn about latest trends of technolgies(Google I/O, Microsoft Build)
+	And I also I use some popular software engineering publications like TechCrunch, Wired and so on.
+	Podcasts are the great and convinient way I think. I can even listen the podcasts while doing other tasks.
+
+8. How do you handle conflicts?
+	To handle conflicts, I first listen carefully to understand the other person's side. Then, I calmly explain my own views without blaming anyone. Finally, I work with them to find a fair solution that works for both of us.
+
+9. Chanllege
+4. What is your biggest challenge?
+
+Front
+
+	One of the biggest challeng that I faced was cross-browser compatibility and how to test and debug the app's functionalities and compatibility across different browsers, devices and platforms.
+	It was demanding. So we implemented a responsive design with TailWind CSS and for testing we used BrowserStack.
+	It is a cloud-based service for testing and debugging.
+
+	We need to build robust web application.
+		For secure communication, we used TLS
+
+		To prevent some attacks like XSS, so we implement CSP header to control the sources which the browser can load resources
+		It was difficult because we need to know different types of XSS attacks - stored, reflected and dom-based
+		Also the project inclueded user-generated content and third-party integrations so it was really complex.
+		We Always sanitize user input to ensure that it does not contain executable code.
+		And also we used Anti-CSRF Tokens to prevent CSRF attack.
+
+Asp
+	Another challenge was how to make a efficient real time communication.
+	So we used SignalR for communication.
+	But there are some difficulties like the connect was lost when the browser is inact for a long period of time.
+	I fix it with configuration and add additional logic for watching connections.
+
+Python
+	Designing an efficient database schema and optimize the database query is one of the challeges in Django developing especially when the project grows.
+	Understanding Django's ORM(Object-Rleational Mapping) is very important. It allows us to interact with database without SQL query directly.
+
+
+	Version conflicts for integrating third-party apis
+	When you discover a version conflict, you can make your code more flexible by implementing version compatibility layers or adaptors. These layers can translate between your code's expectations and the API's behavior.
+
+Software design principles                                                                  
+	DRY(Don't repeat your self), KISS(keep it simple, stupid)
+	SOLID
+		- Single Responsibility.
+		- Open/Closed.
+		- Liskov Substitution.
+		- Interface Segregation.
+		- Dependency Inversion.
+
+Software design pattern
+	1. Creational Patterns ( Singleton Pattern, Factory Method Pattern)
+	2. Structural Patterns
+	3. Behavioral Patterns
+	4. Architectural Patterns(MVC, MVVM)
+	5. Data Access Patterns
+
+
+Monitoring analaytics platform 
+	DataDog - Application performance monitoring, infrastructure, Log management, network monitoring and so on.
+
+
+Testing
+	React
+		for uni-testing - Jest, 
+		end-to-end test - Cypress
+	Asp
+		for uni-testing - NUnit, XUnit
+		end-to-end test - Selenium, Playwright
+
+	Angular
+		uni-testing     - Jasmin, karma
+		end-to-end test - protractor
+
+
+How https works?
+	HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. In a nutshell, it works like this:
+	1. Request-Response: A client (typically a web browser) sends an HTTP request to a server. This request includes a method (e.g., GET, POST), a URL, and optional headers and data.
+	2. 	Server Processing: The web server receives the request, processes it, and generates an HTTP response. This response includes a status code (e.g., 200 for success), headers (e.g., content type), and the requested data (e.g., a web page).
+	3. Data Transfer: The response is sent back to the client over the internet.
+	4. Client Rendering: The client (e.g., web browser) receives the response, interprets it, and displays the web page or resource to the user.
+
+
+Error tracking and mornitoring
+	Sentry
+
+
+
+
+	OAuth (Open Authorization) is an open-standard protocol that allows secure authorization and authentication between two applications, typically a user and a web service or between two different web services. It is commonly used to provide a secure and standardized way for users to grant applications or services limited access to their resources without sharing their login credentials.
+
+
+WORK EXPERIENCE	
+
+AdoreBeauty - Senior Front-End Developer								AU
+Jan 2021 - Jul 2023
+•Maintained E-commerce website (Adore Beauty), in close collaboration with the Product, Design, and Back End team, brought a good result to the client which resulted in a 30% increase in customer satisfaction.
+•Led 3 junior developers; created tickets and reviewed code and PR.
+•Created reusable components and libraries that can be used across multiple projects, and optimized code performance in large scale applications, which is followed by reducing development time by 20%.
+•Followed Agile Methodology with 2 weeks sprints and daily scrum meetings, to effectively maintain project timelines and work closely with other engineers.
+•Improved performance by caching the API calls with GraphQl (saved page response 20%)
+
+ 
+Healthcare Logic - Senior Front-End Developer								AU
+
+Feb 2017 - Dec 2020
+•Took charge of the entire development cycle for specific features of the hospital management platform, from requirements gathering to design and develop, ensuring the highest standards of quality were met.
+•Implemented advanced methods for enterprise React applications, including component patterns, API and state management, performance optimization, and application layouts. 
+•Hands-on experience with Material UI with React.js, and customizing built-in components for UX played an important role in the presentation layer and designing software architecture
+•Experienced in building the presentation layer for complex data visualization using D3.js, Highcharts.js, and TailwindCSS.
+•Experienced in debugging the application with Chrome extensions and IDEs, ﬁxed 100+ bugs from the company main project.
+
+

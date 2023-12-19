@@ -1,0 +1,188 @@
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGNhNjYwOGYtMWNhMi00NWI4LTg2ZmItNDhmMWJlMDQ0MmNm%40thread.v2/0?context=%7b%22Tid%22%3a%222f984f92-67a0-47ea-ade8-b4cb0a0dfa9f%22%2c%22Oid%22%3a%2257a7e449-2739-48b2-be95-24167dff9004%22%7d
+
+The company is a leading Global information technology company taking a collaborative approach to create customized solutions across the digital value chain.
+The company provides valuable software and consultation.
+
+University of Porto - Bachelor of Computer Science
+
+Tadeusza Szafrana 5D, 30-363 Kraków, Poland
++48 573 580 979
+https://www.linkedin.com/in/alex-sytnyk/
+https://twitter.com/alex-sytnyk
+https://github.com/IntelCoder0103
+yearly 60k Euros   250 k pln
+monthly 5000 Euros	20~25k pln
+daly 250-300 Euros	1000-1200 pln
+
+
+SQL database
+Azure SQL Database
+S3 and EC2
+Azure Kubernetes Service(AKS) 
+
+
+Azure Cosmos DB
+ 
+Azure function
+Azure Devops
+
+
+
+summary
+	Experienced in end to end software development more than 9+ years with fierce passion about web technology.Love working with others to build a creative, free-flowing and robust solution and deliver the best experience to users. Built more than 5 projects from small-size to large scale application. Skilled in problem-solving and debugging, looking for challenge.
+
+1. Introduce your self
+	I've been a software engineer for 7 years and I've worked as developer at companies like Healthcare Logic and S-pro.
+	During my career, I've built numerous web and mobile applications using different techonlogies.
+	I'm proficient in React and Angular for fronend and node and asp.net for backend.
+	My expertise also lies in databases such as MySQL, PostgreSQL and MongoDB.
+	
+	In addition to my technical skills, I'm a team player and comfortable collaborating with cross-functional teams.
+	I've successfully deployed my last project to from development to the final product stage.
+	However, my contract recently ended, and I'm now looking for a new opportunity.
+
+2. What was your responsibility?
+
+	I took the charge of entire cycle for specfic features from requirent gathering to design and develop
+	I developed Rest Apis with Asp.net and build responsive user interface with Angular.
+	I did the uni-testing and end-to-end test and also have experience mentoring junior developers
+	But my main responsibility was developing.
+
+3. Talk about last project
+
+	The project is mainly used for data visualization from huge data
+	It helps clinicians and hospital managers to make a smart decision and optimize the performance for management. It also monitor hospital demand, patient activity and patient flow and more.
+
+	Additionally it has functionality for a patient to find the nearest and suitable hospital so we used google maps.
+	The project requires robust back-end system that could handle authentification and dynamic front-end interface for displaying many hospital highcharts and informations.
+
+	For fronend I used Angular to create a dynamic and  responsive user interface. So I used Angular Material to create reusable UI components and I also used highchart.js and d3.js for visualization.
+
+	For backend I used .net to develop RESTful apis that communicated with SQL Server database. I also integrated various third-party apis and libraries and implemented a system that used AWS lambda and SNS(Simple notification Service) for real-time mornitoring.
+	The project gives me valuable experience.
+
+
+4. What is your biggest challenge?
+
+	One of the biggest challeng that I faced was cross-browser compatibility and how to test and debug the app's functionalities and compatibility across different browsers, devices and platforms.
+	It was demanding. So we implemented a responsive design with TailWind CSS and for testing we used BrowserStack.
+	It is a cloud-based service for testing and debugging.
+	
+	Another challenge was how to make a efficient real time communication.
+	So we used SignalR for communication.
+	But there are some difficulties like the connect was lost when the browser is inact for a long period of time.
+	I fix it with configuration and add additional logic for watching connections.
+
+	Python
+	Designing an efficient database schema and optimize the database query is one of the challeges in Django developing especially when the project grows.
+	Understanding Django's ORM(Object-Rleational Mapping) is very important. It allows us to interact with database without SQL query directly.
+
+
+	Version conflicts for integrating third-party apis
+	When you discover a version conflict, you can make your code more flexible by implementing version compatibility layers or adaptors. These layers can translate between your code's expectations and the API's behavior.
+
+5. What are you looking for a next role?
+	I want to use my skill and experience to build and maintain high-quality, scalable, and reliable web applications.
+	I want to be part of company's growth
+	Work with a talented and experienced engineers
+	Continue to learn and grow as a developer who is reputable and innovative
+
+
+6. Team composition and how to follow agile methodology?
+	In our company, which comprises a team of 20 members, 12 are dedicated software engineers, divided into 5 for frontend, 5 for backend, and 2 serving as QA engineers.
+	Additionally, our team includes 2 skilled designers specializing in UI/UX, alongside a project manager and a product manager, as well as the scrum master.
+
+	We have integrated the Scrum methodology to optimize our development processes, enhnace collaboration among our team members.
+	I provided technical expertise and insight into the implementation for proposed tasks and prioritize tasks based on their importance in sprint planning meetings
+	We conduct daily stand-up meetings, during which we share progress updates, discuss our immediate tasks, and address any obstacles or blockers.
+
+	Our development cycle operates on a bi-weekly sprint basis, allowing us to release product increments every two weeks.
+
+	Following the conclusion of each sprint,we had the sprint review and the sprint retrospective.
+
+	In terms of team collaboration and communication, we utilize the Slack platform to facilitate seamless and efficient interactions among our team members.
+
+
+7. How to you keep up with the latest technologies?
+	I always use online resouces. I follw technology news websites, blogs and social media channel related to software development. Sites like Hacker News, Reddit.
+	I attended conferences or meetups to learn about latest trends of technolgies(Google I/O, Microsoft Build)
+	And I also I use some popular software engineering publications like TechCrunch, Wired and so on.
+	Podcasts are the great and convinient way I think. I can even listen the podcasts while doing other tasks.
+
+
+Software design principles                                                                  
+	DRY(Don't repeat your self), KISS(keep it simple, stupid)
+	SOLID
+		- Single Responsibility.
+		- Open/Closed.
+		- Liskov Substitution.
+		- Interface Segregation.
+		- Dependency Inversion.
+
+Software design pattern
+	1. Creational Patterns ( Singleton Pattern, Factory Method Pattern)
+	2. Structural Patterns
+	3. Behavioral Patterns
+	4. Architectural Patterns(MVC, MVVM)
+	5. Data Access Patterns
+
+
+Monitoring analaytics platform 
+	DataDog - Application performance monitoring, infrastructure, Log management, network monitoring and so on.
+
+
+How https works?
+	HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. In a nutshell, it works like this:
+	1. Request-Response: A client (typically a web browser) sends an HTTP request to a server. This request includes a method (e.g., GET, POST), a URL, and optional headers and data.
+	2. 	Server Processing: The web server receives the request, processes it, and generates an HTTP response. This response includes a status code (e.g., 200 for success), headers (e.g., content type), and the requested data (e.g., a web page).
+	3. Data Transfer: The response is sent back to the client over the internet.
+	4. Client Rendering: The client (e.g., web browser) receives the response, interprets it, and displays the web page or resource to the user.
+
+Testing
+	for uni-testing - Jest, 
+	end-to-end test - Cypress, Protractor
+
+Code Review
+	Fisheye, Crucible
+
+Error tracking and mornitoring
+	Sentry
+
+
+
+	OAuth (Open Authorization) is an open-standard protocol that allows secure authorization and authentication between two applications, typically a user and a web service or between two different web services. It is commonly used to provide a secure and standardized way for users to grant applications or services limited access to their resources without sharing their login credentials.
+
+
+
+
+How to handle conflict with others?
+	Listen actively and empathetically to understand each colleague's perspective.
+	Discuss openly to find common ground and collaboratively work towards a solution.
+	Follow up to ensure the resolution is effective and maintain a positive team environment.
+
+
+How to work with client? non-technical?
+
+	Simplify Technical Language: I use simple language to explain technical concepts, avoiding jargon to ensure clarity and understanding.
+
+	Understand Their Perspective: I actively listen to grasp the client's needs and challenges, focusing on how technology can solve their specific problems.
+
+	Regular Updates and Demos: I provide regular updates and demonstrations to show progress in a way that is meaningful and accessible to them.
+
+	Encourage Questions and Feedback: I invite questions and feedback to ensure they feel involved and their concerns are addressed.
+
+	Align Technology with Business Goals: I always align technical solutions with their business goals, emphasizing the practical benefits and outcomes.
+
+
+How to work product manager?
+	 worked closely with the Product Manager. We planned projects together, where I shared technical advice. During development, we stayed in constant touch to handle any tech issues. I was involved in Agile processes like sprints, helping improve our work and product. I also helped make decisions by providing a tech perspective. My role included ensuring our tech team's ideas were considered, aiming to improve the product and user experience.
+
+
+
+
+
+
+
+
+
+

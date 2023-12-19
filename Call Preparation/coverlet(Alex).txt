@@ -1,0 +1,9 @@
+Dear Hiring Manager:
+As a computer science graduate and a senior full stack engineer with 8+ years of experiences, I was elated to see your new job position.
+
+My recently-finished contract experience has shaped my code and website development knowledge in advanced level, and I know I am pretty good at Full Stack Web Technologies including React, Angular, Node.JS, ASP.NET and Typescript which might be help your company succeed.
+
+I would enjoy an opportunity to chat about your upcoming projects or company missions and share with you how my achievements can be replicated and improved here.
+
+Sincerely,
+Alex

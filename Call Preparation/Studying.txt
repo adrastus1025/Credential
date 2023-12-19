@@ -1,0 +1,94 @@
+How did you test your frontend?
+
+Unit Testing - React Testing library, Jest
+Integration Testing - Nock library
+End-to-End testing - Cypress
+
+
+Did you make choice for which technologies were going to be used?
+
+What was technology for using APIS?
+
+GraphQL overfetching underfetching
+
+
+secure server backhand size
+
+Secure servers are servers that use secure sockets layer protocal to protect communication from unintended recipients.
+SSL, TLS
+
+
+modifying settings, parameters I used webpack and nowadays turbopack, vite
+Turbopack is the best.
+
+
+What other packages npm react packages did you use?
+I use Redux for global state management. ReactRouter
+
+
+
+Did you have any codes in shared libraries?
+I don't work on open-source programming.
+
+
+What did you do with AWS?
+
+I used AWS for hosting static websites.
+And I also used AWS Lambda for building serverless functions that provide backend functionalities. For example I can create Lambda functions to handle API requests, data
+
+
+CI/CD version-control	Git, GitBucket
+Build Tools		npm
+platforms		Jenkins, CircleCI, GitLab CI/CD, Travis CI, Bamboo, and GitHub Actions, among others, offer environments where CI/CD pipelines can be defined and executed.
+Containerization & Orchestration: Docker for containerization and Kubernetes for orchestration have become key in many CI/CD pipelines to ensure consistent and scalable deployments.
+
+
+What is container?
+	Container: A lightweight, stand-alone, executable software package that includes everything needed to run a piece of software, including the code, runtime, system tools, libraries, and settings. Containers are isolated from each other and the host system.
+
+What is ochestration?
+	It is the automated arrangement, coordination, and management of complex computer systems, services, and middleware. It involves using automated tools to deploy, manage, and scale applications and services.
+
+Experiences with AWS
+
+	1. Compute:
+	EC2 (Elastic Compute Cloud): Virtual servers in the cloud. Essential for hosting applications, backends, APIs, etc.
+	Lambda: Serverless compute service, allowing you to run code in response to events without managing servers.
+
+	2. Storage:
+	S3 (Simple Storage Service): Object storage for hosting assets like images, documents, and even static websites.
+	RDS (Relational Database Service): Managed relational databases like PostgreSQL, MySQL, MariaDB, Oracle, and SQL Server.
+	DynamoDB: Managed NoSQL database service.
+
+	3. Networking:
+	VPC (Virtual Private Cloud): Isolated cloud resources, where you can define your IP address range, subnets, route tables, and 					network gateways.
+	Route 53: Scalable domain name system (DNS) and domain registration.
+	
+	4. Developer Tools:
+	CodeStar: Suite of tools for CI/CD pipeline (including CodeBuild, CodeDeploy, and CodePipeline).
+	Cloud9: Cloud-based integrated development environment (IDE) for writing, running, and debugging code.
+	
+	5. Containers & Microservices:
+	ECS (Elastic Container Service): Fully managed container management service.
+	EKS (Elastic Kubernetes Service): Managed Kubernetes service.
+	Fargate: Serverless compute engine for containers.
+
+	6. Application Integration & Middleware:
+	API Gateway: Create, publish, and secure APIs at any scale.
+	AppSync: Build data-driven apps with real-time and offline capabilities using GraphQL.
+	Elastic Beanstalk: Platform-as-a-Service (PaaS) for deploying web applications.
+
+	7. Security & Identity:
+	IAM (Identity and Access Management): Manage user and programmatic access to AWS services.
+	Cognito: Provides authentication and user management for web and mobile apps.
+
+	8. Analytics & Monitoring:
+	CloudWatch: Monitor resources and applications, collect and track metrics.
+	X-Ray: Trace and analyze user requests as they travel through applications.
+
+	9. Front-end Web & Mobile:
+	Amplify: Development platform for building secure and scalable cloud-powered serverless web 	and mobile applications.
+	Device Farm: Test web and mobile apps on real devices in the AWS Cloud.
+		Experiences & Best Practices for Full-Stack Engineers:
+		Infrastructure as Code (IaC): Using AWS CloudFormation or CDK to script and manage resources.
+	

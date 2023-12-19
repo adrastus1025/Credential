@@ -1,0 +1,12 @@
+Azure App Service - using Azure App Service, which provides a scalable and managed platform for web apps, APIS and 							mobile backends
+
+Azure Functions - serverless computing for event-driven applications and microservices
+
+Azure DevOps - CI/CD to automate the deployment and release processes
+
+Azure SQL Database - for data storage and retreival
+
+Azure Active Directory - Integrating Azure Ad for authentication and authorization in web apps
+
+Azure Kubernetes Service(AKS) - for containerized applications, experiece with Azure AKS for orchestrating containers 									and managing containerized applications
+
